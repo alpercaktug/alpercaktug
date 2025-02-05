@@ -1,10 +1,13 @@
 ## Hi there 👋
 
-I am a Software Test Engineer, specializing in designing and implementing test automation frameworks.
+I am a software test engineer, specializing in designing and implementing test automation frameworks.
 
 My expertise includes UI, API, and mobile test automation, behavior-driven development, CI/CD pipeline integration, and test strategy development.
 
 I’m passionate about enhancing software quality, improving test strategies, and continuous testing.
+
+
+🔭 I’m currently working on a test automation template which will include api, browser and application automation.
 
 
 📫 Connect with Me:
@@ -14,6 +17,7 @@ I’m passionate about enhancing software quality, improving test strategies, an
 💼 LinkedIn: linkedin.com/in/alpercaktug/
 
 🌐 Portfolio: [alpercaktug](https://alpercaktug.github.io)
+
 
 🚀 Let's collaborate and automate together!
 
