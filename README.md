@@ -15,7 +15,7 @@ I'm currently working on a **Test Automation Template** that will include **API,
 ### 📫 Connect with Me:
 - 📩 Email: [alpercaktug@outlook.com](mailto:alpercaktug@outlook.com)
 - 💼 LinkedIn: [linkedin.com/in/alpercaktug/](https://linkedin.com/in/alpercaktug/)
-- 🌐 Portfolio: [alpercaktug](https://alpercaktug.github.io)
+- 🌐 About Me: [alpercaktug](https://alpercaktug.github.io)
 - 🌐 Medium: https://medium.com/@alpercaktug
 
 🚀 **Let's collaborate and automate together!**
