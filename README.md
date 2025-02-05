@@ -4,7 +4,6 @@ I am a **Software Test Engineer**, specializing in designing and implementing **
 
 ### 🚀 About Me:
 - 🔹 Expertise in **UI, API, and Mobile Test Automation**.
-- 🔹 Strong background in **Behavior-Driven Development (BDD)**.
 - 🔹 Experienced in **CI/CD pipeline integration** and **test strategy development**.
 - 🔹 Passionate about enhancing software quality, improving test strategies, and enabling continuous testing.
 
