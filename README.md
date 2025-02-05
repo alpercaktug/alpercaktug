@@ -13,7 +13,7 @@ I’m passionate about enhancing software quality, improving test strategies, an
 
 💼 LinkedIn: linkedin.com/in/alpercaktug/
 
-🌐 Portfolio: [Your Website](https://alpercaktug.github.io)
+🌐 Portfolio: [alpercaktug](https://alpercaktug.github.io)
 
 🚀 Let's collaborate and automate together!
 
