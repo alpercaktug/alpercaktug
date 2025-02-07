@@ -10,6 +10,8 @@ I am a **Software Test Engineer**, specializing in designing and implementing **
 ### 🔭 Current Work:
 I'm currently working on a **Test Automation Template** that will include **API, browser, and mobile application automation**.
 
+🤔 AI Agents in automated tests
+
 ---
 
 ### 📫 Connect with Me:
