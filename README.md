@@ -8,7 +8,7 @@ I am a **Software Test Engineer**, specializing in designing and implementing **
 - 🔹 Passionate about enhancing software quality, improving test strategies, and enabling continuous testing.
 
 ### 🔭 Current Work:
-🤔 AI Agents in automated tests
+🤔 AI Agents
 
 
 ---
